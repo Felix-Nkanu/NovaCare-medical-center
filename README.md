@@ -38,7 +38,7 @@ NovaCare Medical Center is a frontend healthcare website built using modern web 
 
 **Website**
 
-*https://nova-care-medical-center.vercel.app/*
+https://nova-care-medical-center.vercel.app/
 
 ---
 
